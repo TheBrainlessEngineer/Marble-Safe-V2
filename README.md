@@ -5,7 +5,7 @@ You can download these STL Files to build your very own Marble Safe.
 I printed my version on an anycubic i3 mega, at 0.3 mm Layer height.
 You may need to rescale/sand some parts for a perfect fit. 
 
-A tutorial on how to assemble the project: https://www.youtube.com/watch?v=bTagq5AU6rc
+https://www.youtube.com/watch?v=bTagq5AU6rc
 
 Parts needed (other than 3D-printed)
 
