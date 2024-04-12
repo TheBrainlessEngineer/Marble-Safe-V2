@@ -1,7 +1,9 @@
 # Marble-Safe-V2
 New version of the marble safe, which has better tolerances, new bolt, stopper and visual designs and doesn´t need bearings anymore.
 
-You can download these STL Files to build your very own Marble Safe
+You can download these STL Files to build your very own Marble Safe. 
+I printed my version on an anycubic i3 mega, at 0.3 mm Layer height.
+You may need to rescale/sand some parts for a perfect fit. 
 
 A tutorial on how to assemble the project: still in production
 
